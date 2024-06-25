@@ -824,6 +824,35 @@ textarea {
 }
 
 .img-fluid{
-  width: auto;
+  width: 100%;
   height: auto;
+}
+.numeros{
+  padding-top: 10px;
+  font-size: 40px;
+  display: block;
+  font-weight: 700;
+  color:#C71585;
+  line-height: 40px;
+}
+
+.pnum {
+  font-size: 20px;
+  color: #000000;
+}
+
+#c1 {
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(110, 65, 118);
+}
+
+#c2 {
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(110, 65, 118);
+}
+
+#c3{
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(110, 65, 118);
+
 }
