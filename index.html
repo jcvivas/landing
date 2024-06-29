@@ -370,6 +370,15 @@
 									<input type="email" class="form-control" placeholder="Ingresa Email" id="form_email">
 								</div>
 								<div class="col-auto">
+									<h3>Ingresa Sexo:</h3>
+									<select name="sexo">
+									
+										<option value="hombre">Hombre</option>
+										<option value="mujer" selected>Mujer</option>
+										<option value="lgbtq+">Lgbtq+</option>
+									  </select>
+								</div>
+								<div class="col-auto">
 									<input type="text" class="form-control" placeholder="Ingresa Mensaje" id="form_message">
 								</div>
 								<div class="col-auto">
@@ -378,6 +387,17 @@
 									</button>
 								</div>
 							</form>
+							<h3 style="padding-top: 40px;">Registro de Sexos</h3>
+							<table class="table">
+								<thead>
+									<tr>
+										<th scope="col">Sexo</th>
+										<th scope="col">Número de Registrados</th>
+									</tr>
+								</thead>
+								<tbody id="sexo-table-body">
+								</tbody>
+							</table>
 
 						</div>
 					</div>
@@ -422,6 +442,7 @@
 		<script src="js/bootstrap.bundle.min.js"></script>
 		<script src="js/tiny-slider.js"></script>
 		<script src="js/custom.js"></script>
+		<script src="js/script2.js"></script>
 		<script src="js/script.js"></script>
 		<script src="js/counter.js"></script>
 	</body>
