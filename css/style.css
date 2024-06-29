@@ -372,7 +372,7 @@ a {
       width: 8px;
       height: 8px;
       border-radius: 50%;
-      border: 2px solid #3b5d50;
+      border: 2px solid #C71585;
       position: absolute;
       left: 0;
       top: 8px; }
@@ -460,7 +460,7 @@ a {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .testimonial-slider-wrap #testimonial-nav > span:hover {
-        background: #3b5d50;
+        background: #C71585;
         color: #ffffff; }
     .testimonial-slider-wrap #testimonial-nav .prev {
       left: -10px; }
@@ -500,7 +500,7 @@ a {
         transition: .3s all ease;
         background-color: #d6d6d6; }
       .testimonial-slider-wrap .tns-nav button:hover:before, .testimonial-slider-wrap .tns-nav button.tns-nav-active:before {
-        background-color: #3b5d50; }
+        background-color: #C71585; }
 
 .before-footer-section {
   padding: 7rem 0 12rem 0 !important; }
@@ -557,7 +557,7 @@ a {
     .footer-section .subscription-form h3 {
       font-size: 18px;
       font-weight: 500;
-      color: #3b5d50; }
+      color: #C71585; }
     .footer-section .subscription-form .form-control {
       height: 50px;
       border-radius: 10px;
@@ -597,7 +597,7 @@ a {
     font-size: 32px;
     font-weight: 500;
     text-decoration: none;
-    color: #3b5d50; }
+    color: #C71585; }
   .footer-section .custom-social li {
     margin: 2px;
     display: inline-block; }
@@ -608,10 +608,10 @@ a {
       line-height: 40px;
       display: inline-block;
       background: #dce5e4;
-      color: #3b5d50;
+      color: #C71585;
       border-radius: 50%; }
       .footer-section .custom-social li a:hover {
-        background: #3b5d50;
+        background: #C71585;
         color: #ffffff; }
   .footer-section .border-top {
     border-color: #dce5e4; }
@@ -629,7 +629,7 @@ a {
     outline: none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #3b5d50;
+    border-color: #C71585;
     -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2);
     box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2); }
   .form-control::-webkit-input-placeholder {
@@ -651,7 +651,7 @@ a {
     height: 50px;
     line-height: 50px;
     text-align: center;
-    background: #3b5d50;
+    background: #C71585;
     margin-right: 20px;
     color: #ffffff; }
 
@@ -695,11 +695,11 @@ textarea {
   border-radius: 10px !important; }
 
 .text-primary {
-  color: #3b5d50 !important; }
+  color: #C71585 !important; }
 
 .thankyou-icon {
   position: relative;
-  color: #3b5d50; }
+  color: #C71585; }
   .thankyou-icon:before {
     position: absolute;
     content: "";
